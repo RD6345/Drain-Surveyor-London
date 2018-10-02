@@ -1,23 +1,11 @@
-Hi mate,
 
-Sorry for the delay in contacting you, I'm juggling lots of bits of work at the moment. There is also a rising need for content management, in case you can suggest anyone.
 
-So, here is the static wordpress site that I'd mentioned. The monstrosity that it is, and needs to be bootstrapped, it's part of a range of sites that my client owns.
+So, here is the static wordpress site that I'd mentioned. It needs to be bootstrapped, it's part of a range of sites that my client owns.
 
 http://www.drain-surveyor-london.co.uk
 
-The original plan was to bootstrap it, then Zwetan will make the elements dynamic we're I can serve content from the back end.
+The original plan was to bootstrap it, then make the elements dynamic we're I can serve content from the back end.
 
-It looks pap, but I thought the design conforms to a grid layout quite nicely so might be a good practical thing to do if you fancy some basic bootstrap?
+I thought the design conforms to a grid layout quite nicely so might be a good practical thing to do if you fancy some basic bootstrap?
 
-I don't have access to the site but can teach you to use wget. :)
-
-Claudio
-
--- 
-Claudio De Palma
-{un}cooked.
-
-E: claudio@uncooked.co.uk
-T: 07447 699 030
 
